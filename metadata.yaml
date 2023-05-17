@@ -1,0 +1,32 @@
+_repo: The-inter-ocean-curiosity-shop-for-the-year-1883_70718
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Jones, William P.
+    gutenberg_agent_id: '55883'
+    url: http://www.gutenberg.org/2009/agents/55883
+description: ''
+gutenberg_issued: '2023-05-07'
+identifiers:
+  gutenberg: '70718'
+language: en
+pgterms:marc905: 20200801093050jones
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Bob Taylor, Juliet Sutherland and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bThe Inter Ocean Publishing Company, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The inter ocean curiosity shop for the year 1883
+url: http://www.gutenberg.org/ebooks/70718
